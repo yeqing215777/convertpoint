@@ -1,4 +1,4 @@
 import convertpoint
 
-point = convertpoint.ImagePoint('italy.jpg', 'small.jpg')
-print(point)
+p = convertpoint.ImagePoint('italy.jpg', 'small.jpg')
+p.show()
