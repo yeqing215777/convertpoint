@@ -1,5 +1,5 @@
-# 以图搜图
 
+# 以图搜图
 ## 说明
 
 根据小图像查找在大图中的坐标位置,支持对PhotoShop图像文件(PSD,PSB)的检索
@@ -37,7 +37,8 @@ p.show()
 | getPILImage()  |  | Image| 获得PIL对象  |
 | getPoint()  |  | tuple| 获得坐标  |
 ## License
+<img src="https://cdn.e-dunhuang.com/images/logo.png">
 
 Power by:叶青  
 QQ:215777  
-Version:1.0
+Version:1.0   
