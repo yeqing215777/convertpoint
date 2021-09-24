@@ -37,7 +37,7 @@ p.show()
 | getPILImage()  |  | Image| 获得PIL对象  |
 | getPoint()  |  | tuple| 获得坐标  |
 ## License
-<img src="https://cdn.e-dunhuang.com/images/logo.png">
+<img src="http://cdn.e-dunhuang.com/images/logo.png">
 
 Power by:叶青  
 QQ:215777  
